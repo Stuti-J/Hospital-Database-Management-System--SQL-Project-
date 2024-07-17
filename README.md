@@ -3,4 +3,4 @@ Developed a hospital database with interconnected tables for patients, doctors, 
 Employed SQL commands to efficiently manage and manipulate data.
 Implemented JOINs, stored procedures, and triggers for streamlined operations.
 Enhanced data integrity and automated actions using advanced SQL features.
-Gained experience in complex queries, data normalization, and performance optimization. (Try it here)
+Gained experience in complex queries, data normalization, and performance optimization. 
